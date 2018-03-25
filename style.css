@@ -1,0 +1,52 @@
+#mainDiv{
+        width: 135px;
+        margin: left;
+        border: 1px solid #ddd;
+        box-shadow: 1px 2px 5px rgba(0,0,0,0.05);
+        border-radius: 4px;
+}
+
+#outputDataOuterDiv{
+    padding-left: 9px;
+    padding-top: 2px;
+}
+
+#outputData{
+  height: 23px;
+  width: 105px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow: hidden;
+  border: 1px solid #ddd;
+}
+
+#display{
+  float: right;
+}
+
+
+
+.button, .btnEqual, .btnDot, .btnOne, .btnPlus{
+  font-size: 12px;
+    color: black;
+    border: 1px solid #ddd;
+    margin: 3px 0.5px;
+    width: 25px;
+}
+
+.btnEqual{
+  width: 55.5px
+}
+
+
+#buttonsDiv{
+      width: 100%;
+}
+
+
+.fourBtnsDiv{
+  width: 120px;
+  margin: 0px 2px 0px 8px;
+
+}
